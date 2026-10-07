@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/EViews-1F4E79?style=for-the-badge"/>
 </p>
 </div>
+---
 ### Business Intelligence
 <div align="center">
 <p>
@@ -60,6 +61,7 @@
 <img src="https://img.shields.io/badge/DAX-111111?style=for-the-badge"/>
 </p>
 </div>
+---
 ### Databases & Tools
 <div align="center">
 <p>
@@ -70,8 +72,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 </div>
----
-<div align="center">
+
 ```text
                     BUSINESS QUESTION
                            │
@@ -102,7 +103,8 @@
                     └─────────────┘
 
 ```
-</div>
+---
+
 ## 🌐 Find Me
 
 <p>
