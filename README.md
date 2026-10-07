@@ -1,5 +1,5 @@
 <div align="center">
-<img src="dino.gif" width="500">
+<img src="dino.gif" width="100%">
 </div>
 
 
