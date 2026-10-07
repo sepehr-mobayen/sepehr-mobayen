@@ -51,8 +51,9 @@
 <img src="https://img.shields.io/badge/EViews-1F4E79?style=for-the-badge"/>
 </p>
 </div>
----
+
 ### Business Intelligence
+
 <div align="center">
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -63,6 +64,7 @@
 </div>
 ---
 ### Databases & Tools
+---
 <div align="center">
 <p>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -104,6 +106,10 @@
 
 ```
 ---
+<div align="center">
+<img src="guy.gif" width="80%">
+</div>
+
 
 ## 🌐 Find Me
 
@@ -122,6 +128,3 @@
 </p>
 
 
-<div align="center">
-<img src="guy.gif" width="80%">
-</div>
