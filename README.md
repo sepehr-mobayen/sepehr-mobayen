@@ -9,9 +9,9 @@
 
 
 ## ⚡ What I Do
-<div align="center" width="80%">
+<div align="center">
 
-<table>
+<table width="80%">
 <tr>
 <td width="50%" align="center">
 
