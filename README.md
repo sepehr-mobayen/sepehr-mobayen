@@ -19,7 +19,7 @@
 
 Performance Analysis  
 Business Analytics  
-Customer & Product Analytics  
+Customer Analytics  
 KPI Development  
 Demand Forecasting  
 
