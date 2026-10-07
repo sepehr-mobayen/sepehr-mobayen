@@ -4,54 +4,15 @@
 
 # Hi, I'm Sepehr 👋
 
-### Business Data Analyst · Data Analytics
-
-
-
-## ⚡ What I Do
-<div align="center">
-
-<table >
-<tr width="80%">
-<td width="50%" align="center">
-
-###  Business Analytics
-
-Performance Analysis  
-Business Analytics  
-Customer Analytics  
-KPI Development  
-Demand Forecasting  
-
-</td>
-
-<td width="50%" align="center">
-
-###  Data & Stats
-
-SQL & Data Extraction  
-Python Analytics   
-Excel & Power Query  
-Statistical Analysis  
-Data Visualization
-
-</td>
-</tr>
-</table>
-
-</div>
-
+### Business Analyst · Data Analyst
+<br/>
 
 ## 🧰 Tech Stack
 
 ### Data & Programming
 <div align="center">
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stata-1A4D7A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EViews-1F4E79?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,r&theme=dark"/>
 </p>
 </div>
 
@@ -87,15 +48,11 @@ Data Visualization
 ## 🌐 Find Me
 
 <p>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://sepehr-mobayen.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_EMAIL">
+<a href="mailto:sepehrxm@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
