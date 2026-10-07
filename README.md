@@ -62,9 +62,9 @@
 <img src="https://img.shields.io/badge/DAX-111111?style=for-the-badge"/>
 </p>
 </div>
----
+
 ### Databases & Tools
----
+
 <div align="center">
 <p>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -75,7 +75,9 @@
 </p>
 </div>
 
-```text
+<div align="center">
+
+<pre>
                     BUSINESS QUESTION
                            │
                            ▼
@@ -103,11 +105,12 @@
                     ┌─────────────┐
                     │   DECISION  │
                     └─────────────┘
+</pre>
 
-```
+</div>
 ---
 <div align="center">
-<img src="guy.gif" width="80%">
+<img src="guy.gif" width="60%">
 </div>
 
 
