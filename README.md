@@ -9,7 +9,7 @@
 
 
 ## ⚡ What I Do
-<div align="center">
+<div align="center" width="80%">
 
 <table>
 <tr>
