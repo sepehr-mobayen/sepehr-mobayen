@@ -11,8 +11,8 @@
 ## ⚡ What I Do
 <div align="center">
 
-<table width="80%">
-<tr>
+<table >
+<tr width="80%">
 <td width="50%" align="center">
 
 ## 📊 Business Analytics
