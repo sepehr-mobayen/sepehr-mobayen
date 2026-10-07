@@ -10,32 +10,37 @@
 
 ## ⚡ What I Do
 <div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 📊 Business Analytics
-- Performance analysis
-- Sales & inventory analytics
-- Customer & product analytics
-- KPI development
-- Demand forecasting
-- Business intelligence
+## 📊 Business Analytics
+
+Performance Analysis  
+Sales & Inventory Analytics  
+Customer & Product Analytics  
+KPI Development  
+Demand Forecasting  
+Business Intelligence
 
 </td>
-<td width="50%">
 
-### 🛠️ Data & BI
-- SQL & data extraction
-- Python analytics
-- Power BI & DAX
-- Excel & Power Query
-- Statistical analysis
-- Data visualization
+<td width="50%" align="center">
+
+## 🛠️ Data & BI
+
+SQL & Data Extraction  
+Python Analytics  
+Power BI & DAX  
+Excel & Power Query  
+Statistical Analysis  
+Data Visualization
 
 </td>
 </tr>
 </table>
+
 </div>
 
 
