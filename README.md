@@ -15,7 +15,7 @@
 <tr width="80%">
 <td width="50%" align="center">
 
-## 📊 Business Analytics
+##  Business Analytics
 
 Performance Analysis  
 Business Analytics  
@@ -27,7 +27,7 @@ Demand Forecasting
 
 <td width="50%" align="center">
 
-## 🛠️ Data & Stats
+##  Data & Stats
 
 SQL & Data Extraction  
 Python Analytics   
