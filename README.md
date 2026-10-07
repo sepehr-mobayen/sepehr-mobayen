@@ -6,7 +6,7 @@
 <div align="center">
 ### Business Data Analyst · Data Analytics
 </div>
----
+
 
 ## ⚡ What I Do
 <div align="center">
@@ -37,7 +37,7 @@
 </tr>
 </table>
 </div>
----
+
 
 ## 🧰 Tech Stack
 
@@ -76,7 +76,6 @@
 </div>
 
 <div align="center">
-
 <pre>
                     BUSINESS QUESTION
                            │
@@ -106,11 +105,11 @@
                     │   DECISION  │
                     └─────────────┘
 </pre>
-
 </div>
----
+
+
 <div align="center">
-<img src="guy.gif" width="60%">
+<img src="guy.gif" width="40%">
 </div>
 
 
