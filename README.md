@@ -18,21 +18,19 @@
 ## 📊 Business Analytics
 
 Performance Analysis  
-Sales & Inventory Analytics  
+Business Analytics  
 Customer & Product Analytics  
 KPI Development  
 Demand Forecasting  
-Business Intelligence
 
 </td>
 
 <td width="50%" align="center">
 
-## 🛠️ Data & BI
+## 🛠️ Data & Stats
 
 SQL & Data Extraction  
-Python Analytics  
-Power BI & DAX  
+Python Analytics   
 Excel & Power Query  
 Statistical Analysis  
 Data Visualization
